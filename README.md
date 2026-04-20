@@ -1,2 +1,2 @@
 # Taller-IPC
-Actividad grupal para análisis de ARN-seq
+Analisis bioinformatico de secuencias mediante herraminetas de alineamiento y procesamiento de datos biologicos.
